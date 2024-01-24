@@ -14,7 +14,7 @@
  
 
 ## Project 2. ML_Classification_Potential Customer Prediction
-**Description:**  Analyz and build ML models to identify which leads are more likely to convert to paid customers for an early stage EdTech startup. The goal was to find the factors driving the lead conversion process and create a profile of the leads which are likely to convert.
+**Description:**  Analyze and build ML models to identify which leads are more likely to convert to paid customers for an early stage EdTech startup. The goal was to find the factors driving the lead conversion process and create a profile of the leads which are likely to convert.
 
 * **Challenges:**
   * Selecting the correct values for hyperparameters can be challenging and requires some trial and error, which can be time-consuming, especially for someone newer to machine learning.
@@ -24,3 +24,12 @@
    * One adjustment I might consider is strategically limiting the number of features used in the machine learning model. Although this wasn't a significant concern in the current analysis due to the manageable size of the feature set, a more focused approach based on exploratory data analysis (EDA) could enhance model runtime efficiency.
 
 
+## Project 3. ML_Classification_Customer Satisfaction Prediction
+**Description:** The goal of the problem is to predict whether a passenger was satisfied or not considering his/her overall experience of travelling on the Shinkansen Bullet Train.
+
+* **Challenges:**
+  * Large Feature set
+  * Hackathon Format 
+
+*  **Improvement Opportunities:**
+   * Feature Engineering
