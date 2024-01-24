@@ -28,8 +28,8 @@
 **Description:** The goal of the problem is to predict whether a passenger was satisfied or not considering his/her overall experience of travelling on the Shinkansen Bullet Train.
 
 * **Challenges:**
-  * Large Feature set
-  * Hackathon Format 
+  * The large number of features in the set makes traditional exploratory analysis tedious, not scalable, and, in some sense, inconclusive.
+  * This exercise was part of a Hackathon in which the only feedback on prediction performance data was accuracy score. Not having visibility into deeper insights on model performance makes iteration a bit more challenging.
 
 *  **Improvement Opportunities:**
-   * Feature Engineering
+   * For the sake of exercise, I did not perform any feature selection for Logistic Regression Models, which is also evident in the lower-performing model. This also resulted in longer training time, which is not scalable for production use cases. At a minimum, some features could be filtered out.
